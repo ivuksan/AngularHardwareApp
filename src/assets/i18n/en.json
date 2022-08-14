@@ -1,0 +1,19 @@
+{
+  "language": {
+    "croatian": "Croatian",
+    "english": "English"
+  },
+  "navbar": {
+    "username": "Username",
+    "role": "Role",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "loginError": "Login failed! Check your credentials and try again."
+  }
+}
